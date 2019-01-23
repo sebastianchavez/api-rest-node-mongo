@@ -1,0 +1,2 @@
+//Instalar express, nodemon, body-parser
+npm i express nodemon body-parser
